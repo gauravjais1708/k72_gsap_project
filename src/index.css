@@ -23,7 +23,7 @@ body {
   opacity:0%;
   transition:all;}
 
-  .link:hover .moveLink{
+.link:hover .moveLink{
     opacity:1;
   }
 
